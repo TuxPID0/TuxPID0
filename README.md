@@ -1,18 +1,47 @@
-# Tux
-**High school student & self-taught security learner** — learning by doing TryHackMe rooms, CTFs, and testing my own gear. I write up what I find.  
-🌐 **Blog:** [tuxpid0.github.io](https://tuxpid0.github.io)
+# Denis Sebastian Stîrlea (TuxPID0)
 
-### What I've worked through
-Mostly focused on the Blue Team side: SIEM triage with Splunk, phishing analysis, Windows/Linux log analysis, and network monitoring with Snort. I also explore Red Team fundamentals (recon, web exploitation via Burp Suite and SQLMap, Active Directory basics) to better understand how to defend systems.
+Aspiring SOC Analyst focused on Blue Team operations, defensive security, log analysis, and incident triage.
 
-Currently working through the **Google Cybersecurity Certificate**, with **CompTIA Security+** next on the roadmap.
+[Blog](https://tuxpid0.github.io) | [LinkedIn](https://www.linkedin.com/in/denis-sebastian-stirlea/) | [TryHackMe](https://tryhackme.com/p/TuxW) | [Email](mailto:tuxpid0@proton.me)
 
-### Write-ups
-* **[Log Analysis with SIEM (Splunk)](https://tuxpid0.github.io)** — Three incidents in one Splunk instance: a Sysmon intrusion, a Linux cron backdoor, and a WordPress brute-force campaign.
+---
 
-### Tools I use
-`Splunk` `Wireshark` `Nmap` `Burp Suite` `Snort` `Linux` `Python` `SQL` 
+## Overview
 
-### Elsewhere
-* **Email:** tuxpid0@proton.me
-* **TryHackMe:** [TuxW](https://tryhackme.com/p/TuxW)
+High school student and self-taught cybersecurity practitioner. My work centers on hands-on defensive labs, parsing telemetry, investigating suspicious artifacts, and writing structured post-investigation reports.
+
+* **Core Focus:** SIEM alert triage, log correlation, packet analysis, and threat hunting fundamentals.
+* **Current Certification Path:** Google Cybersecurity Professional Certificate (In Progress) -> CompTIA Security+ -> HTB CJCA/CDSA.
+
+---
+
+## Technical Write-ups
+
+Detailed walkthroughs and methodology documentation published on [tuxpid0.github.io](https://tuxpid0.github.io):
+
+* **[Log Analysis with SIEM (Splunk)](https://tuxpid0.github.io/posts/log-analysis-siem-splunk/)**  
+  Investigated three security events inside a single Splunk instance: Sysmon process creation tracking, unauthorized persistence via a Linux cron backdoor, and web server brute-force analysis.
+
+* **[Network Forensics: NetworkMiner Writeup](https://tuxpid0.github.io/posts/tryhackme-networkminer-writeup/)**  
+  Passive network analysis of PCAP captures: OS fingerprinting, artifact reassembly, and extraction of unencrypted credentials across multiple protocol sessions.
+
+* **[Phishing Analysis: Greenholt Phish Lab](https://tuxpid0.github.io/posts/tryhackme-greenholt-phish-lab/)**  
+  End-to-end triage of a suspicious email: analyzed SMTP headers, validated SPF/DKIM/DMARC records, extracted payload hashes, and pivoted on external threat intelligence via VirusTotal.
+
+---
+
+## Tooling & Technical Skills
+
+* **SIEM & Monitoring:** Splunk, Windows Event Logs (Sysmon), Linux Syslog/Auditd, Snort
+* **Network Analysis:** Wireshark, NetworkMiner, PCAP triage, TCP/IP inspection
+* **Scripting & OS:** Linux (Debian/Ubuntu/Arch), Bash, Python, SQL
+* **Defensive Labs:** TryHackMe (SOC Level 1 path), CyberDefenders
+
+---
+
+## Contact
+
+* **LinkedIn:** [linkedin.com/in/denis-sebastian-stirlea](https://www.linkedin.com/in/denis-sebastian-stirlea/)
+* **Blog:** [tuxpid0.github.io](https://tuxpid0.github.io)
+* **TryHackMe:** [tryhackme.com/p/TuxW](https://tryhackme.com/p/TuxW)
+* **Email:** [tuxpid0@proton.me](mailto:tuxpid0@proton.me)
