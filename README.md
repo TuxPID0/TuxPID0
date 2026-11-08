@@ -11,7 +11,6 @@ Aspiring SOC Analyst | Blue Team & Threat Hunting
 High school student and self-taught security practitioner focused on defensive operations, log analysis, and incident triage.
 
 * **Current Path:** Google Cybersecurity Certificate -> TryHackMe SOC Level 1 (SAL1) -> CompTIA Security+ -> HTB CDSA
-* **Write-ups & Lab Notes:** [tuxpid0.github.io](https://tuxpid0.github.io)
 
 ---
 
