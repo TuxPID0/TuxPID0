@@ -10,15 +10,8 @@ Aspiring SOC Analyst | Blue Team & Threat Hunting
 
 High school student and self-taught security practitioner focused on defensive operations, log analysis, and incident triage.
 
-* **Current Path:** Google Cybersecurity Certificate -> CompTIA Security+ -> HTB CDSA
-
----
-
-## Technical Write-ups
-
-* **[Log Analysis with SIEM (Splunk)](https://tuxpid0.github.io/posts/log-analysis-siem-splunk/)** — Sysmon, cron persistence, Apache brute-force
-* **[Network Forensics: NetworkMiner](https://tuxpid0.github.io/posts/tryhackme-networkminer-writeup/)** — PCAP carving, credential extraction, host profiling
-* **[Phishing Analysis: Greenholt Lab](https://tuxpid0.github.io/posts/tryhackme-greenholt-phish-lab/)** — Email headers, SPF/DMARC, VirusTotal
+* **Current Path:** Google Cybersecurity Certificate -> TryHackMe SOC Level 1 (SAL1) -> CompTIA Security+ -> HTB CDSA
+* **Write-ups & Lab Notes:** [tuxpid0.github.io](https://tuxpid0.github.io)
 
 ---
 
