@@ -2,7 +2,7 @@
 
 Aspiring SOC Analyst | Blue Team & Cybersecurity Learner | SIEM & Log Analysis
 
-[Blog](https://tuxpid0.github.io) | [LinkedIn](https://www.linkedin.com/in/denis-sebastian-stirlea/) | [TryHackMe](https://tryhackme.com/p/TuxW) | [Email](mailto:tuxpid0@proton.me)
+[Blog](https://tuxpid0.github.io) | [LinkedIn](https://www.linkedin.com/in/denis-sebastian-stirlea/) | [TryHackMe](https://tryhackme.com/p/TuxW) | [Email](mailto:denis.stirlea@proton.me)
 
 ---
 
