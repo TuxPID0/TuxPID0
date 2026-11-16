@@ -1,6 +1,6 @@
 # Denis Sebastian Stîrlea (TuxPID0)
 
-Aspiring SOC Analyst | Blue Team & Cybersecurity Learner | SIEM & Log Analysis
+Tier 1 SOC Analyst | Blue Team | Threat Detection, Alert Triage & Incident Response | SIEM Monitoring
 
 [Blog](https://tuxpid0.github.io) | [LinkedIn](https://www.linkedin.com/in/denis-sebastian-stirlea/) | [TryHackMe](https://tryhackme.com/p/TuxW) | [Email](mailto:denis.stirlea@proton.me)
 
