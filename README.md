@@ -1,6 +1,6 @@
 # Denis Sebastian Stîrlea (TuxPID0)
 
-Tier 1 SOC Analyst | Blue Team | Threat Detection, Alert Triage & Incident Response | SIEM Monitoring
+Aspiring Tier 1 SOC Analyst | Blue Team | Threat Detection, Alert Triage & Incident Response | SIEM Monitoring
 
 [Blog](https://tuxpid0.github.io) | [LinkedIn](https://www.linkedin.com/in/denis-sebastian-stirlea/) | [TryHackMe](https://tryhackme.com/p/TuxW) | [Email](mailto:denis.stirlea@proton.me)
 
@@ -8,9 +8,9 @@ Tier 1 SOC Analyst | Blue Team | Threat Detection, Alert Triage & Incident Respo
 
 ## Overview
 
-High school student and self-taught security practitioner focused on defensive operations, log analysis, and incident triage.
+High school student and self-taught security practitioner focused on defensive operations, SIEM log analysis, and incident triage. Ranked **#29 / 1,627** teams globally in the TryHackMe *Downtime* SOC competition.
 
-* **Current Path:** Google Cybersecurity Certificate -> TryHackMe SOC Level 1 (SAL1) -> CompTIA Security+ -> HTB CDSA
+- **Current Path:** Google Cybersecurity Certificate -> TryHackMe SOC Level 1 -> CompTIA Security+ -> HTB CDSA
 
 ---
 
